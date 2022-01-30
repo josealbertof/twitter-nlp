@@ -1,1 +1,6 @@
+# CREDENTIALS
 /config/*
+
+# NOTEBOOKS FILES
+/notebooks/__pycache__
+/notebooks/.ipynb_checkpoints
